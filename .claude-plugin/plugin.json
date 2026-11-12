@@ -1,0 +1,11 @@
+{
+  "name": "rpotential",
+  "version": "0.1.0",
+  "description": "r.Potential in Claude: the r.Potential connector plus skills that use it, starting with account meeting prep.",
+  "author": {
+    "name": "r.Potential",
+    "email": "info@rpotential.ai",
+    "url": "https://rpotential.ai"
+  },
+  "homepage": "https://rpotential.ai/mcp/claude"
+}

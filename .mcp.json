@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rpotential": {
+      "type": "http",
+      "url": "https://api.rpotential.ai/mcp/library/"
+    }
+  }
+}
