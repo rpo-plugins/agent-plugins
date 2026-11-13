@@ -9,5 +9,6 @@
     "url": "https://rpotential.ai"
   },
   "homepage": "https://rpotential.ai/mcp/claude",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "privacyPolicyUrl": "https://rpotential.ai/mcp/claude"
 }
