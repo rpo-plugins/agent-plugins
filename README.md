@@ -29,7 +29,7 @@ In Claude, add the plugin from the Plugins directory. Then try:
 
 ## Privacy
 
-The connector's privacy notice is at https://rpotential.ai/mcp/claude.
+The connector's privacy notice is at https://rpotential.ai/mcp-privacy.
 
 ## Support
 
