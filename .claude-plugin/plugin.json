@@ -10,5 +10,15 @@
   },
   "homepage": "https://rpotential.ai/mcp/claude",
   "license": "Apache-2.0",
-  "privacyPolicyUrl": "https://rpotential.ai/mcp/claude"
+  "privacyPolicyUrl": "https://rpotential.ai/mcp-privacy",
+  "termsOfServiceUrl": "https://rpotential.ai/terms",
+  "documentationUrl": "https://rpotential.ai/mcp/claude",
+  "repository": "https://github.com/rpo-plugins/agent-plugins",
+  "keywords": [
+    "meeting prep",
+    "sales",
+    "account planning",
+    "crm",
+    "ai opportunities"
+  ]
 }
