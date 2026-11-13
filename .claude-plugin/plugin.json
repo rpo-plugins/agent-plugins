@@ -1,5 +1,6 @@
 {
   "name": "rpotential",
+  "displayName": "r.Potential",
   "version": "0.1.0",
   "description": "r.Potential in Claude: the r.Potential connector plus skills that use it, starting with account meeting prep.",
   "author": {
@@ -7,5 +8,6 @@
     "email": "info@rpotential.ai",
     "url": "https://rpotential.ai"
   },
-  "homepage": "https://rpotential.ai/mcp/claude"
+  "homepage": "https://rpotential.ai/mcp/claude",
+  "license": "Apache-2.0"
 }
